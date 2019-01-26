@@ -1,0 +1,5 @@
+.stack-work/
+..vscode/
+service.cabal
+*~
+users.db
